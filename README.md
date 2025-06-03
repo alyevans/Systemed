@@ -1,0 +1,1 @@
+El formulario “Paciente Existente” permite a los usuarios del sistema (como personal administrativo o recepcionistas) buscar, consultar, actualizar y gestionar la información de pacientes que ya han sido registrados previamente en la base de datos clínica. Sirve como puente entre el módulo de registro y otros módulos como citas médicas.
